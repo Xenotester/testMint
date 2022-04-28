@@ -1,4 +1,4 @@
-const contractAddress = "0xCB1Db3fbc274D65Ec08eb5E2A4D6228fcEAeC0C4"; //Replace with your own contract address
+const contractAddress = "0x0117F36c7E493322961a7B219c40375a38F29f10"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Waifu Warrior NFT Project!!";
