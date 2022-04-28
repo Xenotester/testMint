@@ -30,6 +30,7 @@ const retrieveContract = async () => {
       if (response.response === "OK" && response.error === null) {
         console.log(`Contract ${CONTRACT_NAME} deployed successfully`);
       } else {
+        console.log("Come hgerer");
         console.log(`Contract ${CONTRACT_NAME} deployment failed`);
       }
     } else {
